@@ -1,0 +1,10 @@
+name: Vindivillager
+version: 1.0.0
+main: com.enderdevelopment.plugin.Main
+api-version: "1.21"
+commands:
+  vindivillager:
+    description: Spawns a vindicator that trades like a villager for dirt.
+    usage: /vindivillager
+    aliases:
+      - vvillager
